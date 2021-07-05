@@ -1,0 +1,7 @@
+.ShortHeader{
+    color: #eb4a42;
+}
+.inputRowP{
+    display: flex;
+    flex-wrap: wrap;
+}

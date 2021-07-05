@@ -1,0 +1,1 @@
+export const ADD_HIST = 'ADD_HIST'

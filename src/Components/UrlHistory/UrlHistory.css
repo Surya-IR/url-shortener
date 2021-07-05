@@ -1,0 +1,20 @@
+.SectionHeader{
+    display: flex;
+    
+}
+.SectionTitle{
+    font-size: 1.3em;
+}
+.ClearHistory{
+    font-size: 0.9em;
+    color: #eb4a42;
+    vertical-align:bottom;
+}
+.ListHeader{
+    display: flex;
+    flex-wrap: wrap;
+}
+.ListColumn{
+    float: left;
+    width: 25%
+}
